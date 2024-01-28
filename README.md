@@ -3,5 +3,5 @@
 Please propose what we should do now.
 
 I suggest that we list some action items:
-- [] Modify the README.md.
-- [] Create some commits.
+- [ ] Modify the README.md.
+- [ ] Create some commits.
