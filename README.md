@@ -2,8 +2,11 @@
 
 Please propose what we should do now.
 
+I suggest that we list some action items:
 - [ ] Accept the group assignment, join a team, and gain access to a shared repository.
 - [ ] From the shared repository on GitHub.com, clone the repository down to your local machine.
+- [ ] Modify the README.md.
 - [ ] Edit the “Group Assignment” markdown file in your text editor.
 - [ ] Save it out, stage the changes and push to the Module 3 repository.
+- [ ] Create some commits.
 - [ ] Resolve any merge conflicts that arise.
